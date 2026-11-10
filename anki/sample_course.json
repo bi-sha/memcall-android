@@ -1,0 +1,20 @@
+{
+  "format_version": 1,
+  "courses": [
+    {
+      "slug": "example-course",
+      "name": "Example Course",
+      "levels": [
+        {
+          "level": 1,
+          "items": [
+            {"term": "alpha", "translation": "first letter", "mem": "Alpha is the first one.", "example": "Alpha is the first letter of the alphabet.", "part_of_speech": "noun", "distractors": ["beta", "gamma", "delta"]},
+            {"term": "beta", "translation": "second letter", "example": "Beta follows alpha.", "part_of_speech": "noun"},
+            {"term": "gamma", "translation": "third letter", "example": "Gamma follows beta.", "part_of_speech": "noun"},
+            {"term": "delta", "translation": "fourth letter", "example": "Delta follows gamma.", "part_of_speech": "noun"}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "desired_retention": 0.9,
+    "speed_timer_seconds": 3,
+    "speed_hold_ms": 1200,
+    "mem_reveal_mode": "on_fail",
+    "unlock_threshold": 0.8,
+    "unlock_stability_days": 7
+}

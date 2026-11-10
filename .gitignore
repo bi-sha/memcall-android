@@ -1,0 +1,25 @@
+# Gradle and Android build output
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin and Java
+*.class
+hs_err_pid*
+
+# Python (anki/ tools and the add-on)
+__pycache__/
+*.pyc
+anki/*.apkg
+anki/*.levels.json
+anki/recall_enhancement/user_files/
+
+# Temporary files
+*.tmp
+*.bak
